@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1339105264 source:f:\etudes\iut geii\projet puissance 4\puissance 4 version finale.cpp
+	<iut_tlse3\iutupdate.hpp>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<fstream>
+
+1303867058 source:f:\etudes\iut geii\projet puissance 4\toolbox.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+
