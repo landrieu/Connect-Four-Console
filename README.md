@@ -7,4 +7,4 @@ Do not compile the project, unfortunately a library is missing and I'm not able 
 
 An .exe file is available in the repository bin/debug
 
-Some mistakes are still in the code
+Some errors are still in the code
